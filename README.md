@@ -1,2 +1,2 @@
 # Capibara-jpg
-Poză cu un animal fain.
+Poză cu niște animale frumoase.
